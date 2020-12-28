@@ -3,6 +3,9 @@ subject: 'cs'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        kaggle: 1
+        reinforce: 1
+        ctr: 1
+        adscience: 1
+        optimization: 1
+        real time bidding: 1
