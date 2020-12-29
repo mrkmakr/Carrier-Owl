@@ -5,7 +5,8 @@ subject: 'cs'
 keywords:
         kaggle: 1
         reinforce: 1
-        ctr: 1
+        click: 1
+        bandit: 1
         adscience: 1
         optimization: 1
         real time bidding: 1
