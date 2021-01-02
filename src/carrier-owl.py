@@ -119,6 +119,7 @@ def send2slack(results, slack):
                     \n score: `{score}`\n hit keywords: `{word}`\n url: {url}\n title:    {title}\n abstract: \n \t {abstract}\n{star}
                        '''
         slack.notify(text=text_slack)
+        time.sleep(1)
 
 
 def get_translated_text(from_lang, to_lang, from_text):
